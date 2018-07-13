@@ -15,3 +15,5 @@ For your own use, replace the following variables with your own information:
 * `mac_list`
 
 Be sure to also edit the necessary variables in the "shared" module as well.
+
+*Note: This was a small project I completed in 2016*
